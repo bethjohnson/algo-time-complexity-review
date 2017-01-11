@@ -187,6 +187,14 @@ function findColor(quadTree, coordinates){
 }
 
 
+/////////// Prompt 13 ///////////
+/////////// time complexity: 
+
+function findMin(sortedArray) {
+  return sortedArray[0];
+}
+
+
 
 /////////// Bonus! ///////////
 /////////// time complexity: 
